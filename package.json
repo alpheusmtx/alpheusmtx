@@ -1,0 +1,7 @@
+{
+    "type": "module",
+    "devDependencies": {
+        "@apst/oxfmt": "~0.1.0",
+        "oxfmt": "~0.54.0"
+    }
+}
