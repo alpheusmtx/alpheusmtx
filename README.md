@@ -4,15 +4,15 @@ This is Alpheus, currently exploring and building different meaningful projects 
 
 ### Contributions
 
-| <a target="blank" href="https://github.com/alpheusday"><img src="https://avatars.githubusercontent.com/u/213647266" width="50" /></a>   | [Alpheus Day](https://github.com/alpheusday)         | A workspace for Alpheus                               |
-| --------------------------------------------------------------------------------------------------------------------------------------- | :--------------------------------------------------- | :---------------------------------------------------- |
-| <a target="blank" href="https://github.com/alpheustmpls"><img src="https://avatars.githubusercontent.com/u/250856674" width="50" /></a> | [Alpheus Templates](https://github.com/alpheustmpls) | A template hub for Alpheus                            |
-| <a target="blank" href="https://github.com/alpheuscfg"><img src="https://avatars.githubusercontent.com/u/269065966" width="50" /></a>   | [Alpheus Configs](https://github.com/alpheuscfg)     | A space for configurations                            |
-| <a target="blank" href="https://github.com/alpheusci"><img src="https://avatars.githubusercontent.com/u/261449049" width="50" /></a>    | [Alpheus CI](https://github.com/alpheusci)           | A collection of CI workflows                          |
-| <a target="blank" href="https://github.com/jderstd"><img src="https://avatars.githubusercontent.com/u/212258660" width="50" /></a>      | [JDER standard](https://github.com/jderstd)          | A standard for JSON responses                         |
-| <a target="blank" href="https://github.com/scrolia"><img src="https://avatars.githubusercontent.com/u/217054721" width="50" /></a>      | [Scrolia](https://github.com/scrolia)                | A headless scrollbar component                        |
-| <a target="blank" href="https://github.com/gemvale"><img src="https://avatars.githubusercontent.com/u/236046536" width="50" /></a>      | [Gemvale](https://github.com/gemvale)                | A CSS-in-JS ecosystem                                 |
-| <a target="blank" href="https://github.com/filerune"><img src="https://avatars.githubusercontent.com/u/215412789" width="50" /></a>     | [FileRune](https://github.com/filerune)              | A file handling solution                              |
-| <a target="blank" href="https://github.com/srvkit"><img src="https://avatars.githubusercontent.com/u/290733686" width="50" /></a>       | [srvkit](https://github.com/srvkit)                  | A toolkit for building JavaScript server applications |
+| <a target="blank" href="https://github.com/alpheusday"><img src="https://avatars.githubusercontent.com/u/213647266" width="50" /></a>   | [Alpheus Day](https://github.com/alpheusday)         | A workspace for Alpheus        |
+| --------------------------------------------------------------------------------------------------------------------------------------- | :--------------------------------------------------- | :----------------------------- |
+| <a target="blank" href="https://github.com/alpheustmpls"><img src="https://avatars.githubusercontent.com/u/250856674" width="50" /></a> | [Alpheus Templates](https://github.com/alpheustmpls) | A template hub for Alpheus     |
+| <a target="blank" href="https://github.com/alpheuscfg"><img src="https://avatars.githubusercontent.com/u/269065966" width="50" /></a>   | [Alpheus Configs](https://github.com/alpheuscfg)     | A space for configurations     |
+| <a target="blank" href="https://github.com/alpheusci"><img src="https://avatars.githubusercontent.com/u/261449049" width="50" /></a>    | [Alpheus CI](https://github.com/alpheusci)           | A collection of CI workflows   |
+| <a target="blank" href="https://github.com/jderstd"><img src="https://avatars.githubusercontent.com/u/212258660" width="50" /></a>      | [JDER standard](https://github.com/jderstd)          | A standard for JSON responses  |
+| <a target="blank" href="https://github.com/scrolia"><img src="https://avatars.githubusercontent.com/u/217054721" width="50" /></a>      | [Scrolia](https://github.com/scrolia)                | A headless scrollbar component |
+| <a target="blank" href="https://github.com/gemvale"><img src="https://avatars.githubusercontent.com/u/236046536" width="50" /></a>      | [Gemvale](https://github.com/gemvale)                | A CSS-in-JS ecosystem          |
+| <a target="blank" href="https://github.com/filerune"><img src="https://avatars.githubusercontent.com/u/215412789" width="50" /></a>     | [FileRune](https://github.com/filerune)              | A file handling solution       |
+| <a target="blank" href="https://github.com/srvkit"><img src="https://avatars.githubusercontent.com/u/290733686" width="50" /></a>       | [srvkit](https://github.com/srvkit)                  | A toolkit for building APIs    |
 
 > Visit [alpheus.day](https://alpheus.day) for more information...
