@@ -16,15 +16,13 @@ fmt:
     {{oxfmt}}
 
 # Check code
-check:
-    just fmt
+check: fmt
 
 # Clean builds (Linux)
 clean-linux:
 
 # Clean builds (macOS)
-clean-macos:
-    just clean-linux
+clean-macos: clean-linux
 
 # Clean builds (Windows)
 clean-windows:
@@ -40,8 +38,7 @@ clean-all-linux:
     rm -rf ./node_modules
 
 # Clean everything (macOS)
-clean-all-macos:
-    just clean-all-linux
+clean-all-macos: clean-all-linux
 
 # Clean everything (Windows)
 clean-all-windows:
